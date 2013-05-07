@@ -1,0 +1,3 @@
+[submodule "sync-webdriver"]
+	path = sync-webdriver
+	url = git://github.com/niklasvh/sync-webdriver.git
